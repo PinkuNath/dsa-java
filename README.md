@@ -5,6 +5,7 @@ A structured Data Structures and Algorithms repository implemented in Java.
 ## Data Structures
 
 - [Arrays](data-structures/arrays/README.md)
+- [Strings](data-structures/strings/README.md)
 
 ## Algorithms
 
