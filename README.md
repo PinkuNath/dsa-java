@@ -2,11 +2,13 @@
 
 A structured Data Structures and Algorithms repository implemented in Java.
 
-## Topics
+## Data Structures
 
-- [Arrays](arrays/README.md)
+- [Arrays](data-structures/arrays/README.md)
 
-More topics will be added as they are completed.
+## Algorithms
+
+Algorithms will be added as they are completed.
 
 ## Goals
 
